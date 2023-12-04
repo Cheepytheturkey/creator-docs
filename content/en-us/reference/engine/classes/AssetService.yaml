@@ -14,7 +14,7 @@ code_samples:
 inherits:
   - Instance
 tags:
-  - NotCreatable
+  - Creatable
   - Service
 deprecation_message: ''
 properties: []
