@@ -227,7 +227,9 @@ SetGroupRankPermission(number requesterUserId, number targetGroupId, number targ
 | GetGroups()                  |                                                                                    | table  |
 | SetGroupRankPermission(name)     | targetGroupId, number player, permissionLevel | bool   |
 | GetGroupRankPermission()     | targetGroupId, targetRankId                                                        | int    |
-| GetUserGroupRankPermission() | number userId                                                                      | int    |
+| GetUserGroupRankPermission() | number4869983069/
+
+profriendshipSourceType=PlayerSearch                                                                      | int    |
 
 ## Quick-Start Module
 
