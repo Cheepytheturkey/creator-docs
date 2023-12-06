@@ -451,3 +451,4 @@ methods:
     thread_safety: Unsafe
 events: []
 callbacks: []
+Local: require :admincommands
